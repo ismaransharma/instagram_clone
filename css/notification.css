@@ -1,0 +1,205 @@
+body{
+    background-color: #1a1818;
+}
+
+
+.container{
+    /* padding-top: 90px;   */
+    display: flex;
+}
+
+.instanav{
+    border: 1px solid gray;
+    border-radius: 1px;
+    height: 655px;
+    width: 250px;
+    background-color: #141414;
+    color: #fff;
+    position:fixed;
+}
+
+.instanavfixed{
+    position: fixed;
+}
+
+.instagram{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.instaname{
+    background-color: #1a1818;
+    color: #fff;
+    height: 50px;
+    width: 150px;
+}
+
+.dotdot{
+    text-align: center;
+    color: gray;
+    padding-top: 10px;
+    padding-bottom: 4px;
+}
+
+.nav{
+    background-color: #2e2d2d;
+    color: white;
+    width: 250px;
+    height: 65px;
+}
+
+.homebutton{
+    font-size: 15px;
+}
+
+.searchbutton{
+    font-size: 15px;
+}
+
+.reelsemoji{
+    font-size: 15px;
+}
+
+.messageemoji{
+    font-size: 15px;
+}
+
+.notificationemoji{
+    font-size: 15px;
+}
+
+.profileemoji{
+    font-size: 15px;
+}
+
+#search{
+    padding-top: 5px;
+}
+
+#reels{
+    padding-top: 5px;
+}
+
+
+#message{
+    padding-top: 5px;
+}
+
+#notification{
+    padding-top: 5px;
+}
+
+#profile{
+    padding-top: 5px;
+}
+
+#more{
+    padding-top: 90px;
+    text-align: center;
+}
+
+.more{
+    background-color: #141414;
+    color: white;
+    width: 250px;
+    height: 25px;
+}
+
+/* NOTIFICATION */
+
+.notification{
+    padding-left: 260px;
+    height: 900px;
+    width: 590px;
+    padding-top: 12px;
+    /* border: 1px solid gray; */
+}
+
+
+.notificationword{
+    font-size: 25px;
+    color: #fff;
+    display: flex;
+}
+.cate{
+    padding-top: 10px;
+}
+
+.catefont{
+    font-size: 20px;
+    color: #fff;
+}
+
+.categoriesbutton{
+    width: 100px;
+    background-color: #1a1818;
+    color: #fff;
+    border-radius: 4px;
+}
+
+/* .today{
+    
+} */
+
+.wordtoday{
+    font-size: 25px;
+    color: #fff;
+    padding-top: 50px;
+    
+}
+
+.firstpadding{
+    padding-top: 15px;
+    display: flex;
+}
+
+.picpadding{
+    padding-top: 7px;
+}
+
+.firstpic{
+    height: 50px;
+    width: 50px;
+    border: 1px solid gray;
+    border-radius: 50%;
+}
+
+.innerpicpadding{
+    padding-left: 6px;
+    padding-top: 6px;
+}
+
+.followerpic{
+    height: 35px;
+    width: 35px;
+    border: 1px solid rgb(49, 0, 165);
+    border-radius: 50%;
+    background-color: rgb(21, 161, 161);
+}
+
+.followingyou{
+    font-size: 15px;
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.followback{
+    height: 100px;
+    width: 250px;
+    padding-left: 65px;
+}
+
+.followbackbutton{
+    background-color: blue;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.todayover{
+    padding-left: 210px;
+    padding-top: 0px;
+    height: 0px;
+    width: 810px;
+    border: 1px solid gray;
+}

@@ -1,0 +1,170 @@
+body{
+    background-color: #1a1818;
+}
+
+
+.container{
+    /* padding-top: 90px;   */
+    display: flex;
+}
+
+.instanav{
+    border: 1px solid gray;
+    border-radius: 1px;
+    height: 655px;
+    width: 250px;
+    background-color: #141414;
+    color: #fff;
+    position:fixed;
+}
+
+.instanavfixed{
+    position: fixed;
+}
+
+.instagram{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.instaname{
+    background-color: #1a1818;
+    color: #fff;
+    height: 50px;
+    width: 150px;
+}
+
+.dotdot{
+    text-align: center;
+    color: gray;
+    padding-top: 10px;
+    padding-bottom: 4px;
+}
+
+.nav{
+    background-color: #2e2d2d;
+    color: white;
+    width: 250px;
+    height: 65px;
+}
+
+.homebutton{
+    font-size: 15px;
+}
+
+.searchbutton{
+    font-size: 15px;
+}
+
+.reelsemoji{
+    font-size: 15px;
+}
+
+.messageemoji{
+    font-size: 15px;
+}
+
+.notificationemoji{
+    font-size: 15px;
+}
+
+.profileemoji{
+    font-size: 15px;
+}
+
+#search{
+    padding-top: 5px;
+}
+
+#reels{
+    padding-top: 5px;
+}
+
+
+#message{
+    padding-top: 5px;
+}
+
+#notification{
+    padding-top: 5px;
+}
+
+#profile{
+    padding-top: 5px;
+}
+
+#more{
+    padding-top: 90px;
+    text-align: center;
+}
+
+.more{
+    background-color: #141414;
+    color: white;
+    width: 250px;
+    height: 25px;
+}
+
+/* STORY */
+
+.storybox{
+    padding-left: 255px;;
+}
+
+.story{
+    border: 1px solid gray;
+    border-top-color: #1a1818;
+    border-right-color: #1a1818;
+    border-left-color: #1a1818;
+    height: 70px;
+    width: 650px;
+}
+
+.first{
+    height: 65px;
+    width: 65px;
+    border: 1px solid gray;
+    border-radius: 55%;
+    border-color: orangered;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.firstname{
+    padding-left: 5px;
+    color: #fff;
+}
+
+.mainstory{
+    height: 55px;
+    width: 55px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    background-color: brown;
+    cursor: pointer;
+}
+
+/* .second{
+    padding-right: 400px;
+} */
+
+.secondname{
+    padding-left: 12px;
+    color: #fff;
+}
+
+.thirdname{
+    padding-left: 3px;
+    color: #fff;
+}
+
+.fourthname{
+    padding-left: 15px;
+    color: #fff;
+}
+
+.nameji{
+    cursor: default;
+}

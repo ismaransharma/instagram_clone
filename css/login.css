@@ -1,0 +1,153 @@
+body{
+    background-color: white;
+    background-image: linear-gradient(red, whitesmoke,red);
+    height: 505px;
+}
+
+.name{
+    font-size: 35px;
+    color: red;
+    margin: 25px;
+    margin-top: 150px;
+    padding-left: 150px;
+    margin-bottom: 0;
+
+}
+
+.info{
+    font-size: 20px;
+    padding-left: 173px;
+    font-family: Verdana;
+    cursor: not-allowed;
+}
+
+/* LOGIN BOX */
+
+.second{
+    padding-left: 800px;
+}
+
+/* Background System of box*/
+
+.background{
+    background-color: whitesmoke;
+    height: 330px;
+    width: 300px;
+    border: 1px solid gray;
+    border-radius: 15px;
+    box-shadow: 1.5px 3px;
+}
+
+/* LOGIN BOX KO LOGIN */
+
+.loginhead{
+    text-align: center;
+    padding-top: 15px;
+    font-size: 28px;
+    
+}
+
+.mail{
+    text-align: center;
+    padding-top: 25px;
+}
+
+.pass{
+    padding-top: 15px;
+}
+.mailandpass{
+    width: 207px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    height: 30px;
+    cursor: crosshair;
+}
+
+/* LOGIN BUTTON */
+
+.loginbutton{
+    font-size: 35px;
+}
+
+/* LOGIN BUTTON */
+.loginbuttonsecond{
+    background-color: red;
+    color: white;
+    width: 75px;
+    height: 27px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    transition: width 0.5s;
+    cursor: pointer;
+}
+
+.loginbuttonsecond:hover{
+    width: 170px;
+    border-top-left-radius: 90px;
+    border-bottom-right-radius: 120px;
+}
+
+.loginwa{
+    color: white;
+}
+
+/* Forget Password */
+
+.forgetpass{
+    font-size: 16px;
+    padding-top: 8px;
+}
+
+.forgetpassword{
+    color: red;
+    cursor: help;
+}
+
+.dotdot{
+    color: gray;
+}
+/* Create New Account */
+
+.newacc{
+    padding-top: 15px;
+}
+
+
+.createnewaccount{
+    background-color: red;
+    color: white;
+    width: 144px;
+    height: 32px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    transition: width 0.5s;
+    cursor: pointer;
+}
+
+.createnewaccount:hover{
+    width: 270px;
+}
+
+
+
+/* SIGNUP */
+
+.signup{
+    padding-left: 880px;
+    padding-top: 25px;
+}
+
+.signbutton{
+    width: 150px;
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    
+
+}
+
+

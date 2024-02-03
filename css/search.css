@@ -1,0 +1,167 @@
+body{
+    background-color: #1a1818;
+}
+
+
+.container{
+    padding-top: 0px;
+    display: flex;
+}
+
+/* NAV */
+
+.instanav{
+    border: 1px solid gray;
+    border-radius: 1px;
+    height: 655px;
+    width: 250px;
+    background-color: #141414;
+    color: #fff;
+    position:fixed;
+}
+
+.instanavfixed{
+    position: fixed;
+}
+
+.instagram{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.instaname{
+    background-color: #1a1818;
+    color: #fff;
+    height: 50px;
+    width: 150px;
+}
+
+.dotdot{
+    text-align: center;
+    color: gray;
+    padding-top: 10px;
+    padding-bottom: 4px;
+}
+
+.nav{
+    background-color: #2e2d2d;
+    color: white;
+    width: 250px;
+    height: 65px;
+}
+
+.homebutton{
+    font-size: 15px;
+}
+
+.searchbutton{
+    font-size: 15px;
+}
+
+.reelsemoji{
+    font-size: 15px;
+}
+
+.messageemoji{
+    font-size: 15px;
+}
+
+.notificationemoji{
+    font-size: 15px;
+}
+
+#search{
+    padding-top: 5px;
+}
+
+#reels{
+    padding-top: 5px;
+}
+
+#message{
+    padding-top: 5px;
+}
+
+#notification{
+    padding-top: 5px;
+}
+
+#profile{
+    padding-top: 5px;
+}
+
+#more{
+    padding-top: 90px;
+}
+
+.more{
+    background-color: #141414;
+    color: white;
+    width: 250px;
+    height: 25px;
+}
+
+/* SEARCH */
+
+.searchbox{
+    padding-left: 255px;
+    padding-bottom: 30px;
+}
+
+.search{
+    height: 25px;
+    width: 425px;
+    background-color: #141414;
+    color: whitesmoke;
+}
+
+.searchbutton{
+    background-color: #141414;
+    color: white;
+    font-size: 13px;
+}
+
+.suggest{
+    padding-top: 5px;
+    padding-right: 250px;
+    padding-left: 15px;
+    width: 250px;
+}
+
+
+.user{
+    height: 50px;
+    width: 50px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    background-color: azure;
+    margin-top: 28px;
+    border-color: rgb(248, 69, 4);
+    cursor: pointer;
+}
+
+.names{
+    padding-left: 85px;
+    font-size: 18px;
+    color: #fff;
+    width: 150px;
+}
+
+.nameji{
+    cursor: default;
+}
+
+.name{
+    cursor: default;
+}
+
+.followbutton{
+    background-color: rgb(32, 32, 175);
+    color: #fff;
+    width: 100px;
+    border-radius: 4px;
+    
+}
+
+

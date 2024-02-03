@@ -1,0 +1,208 @@
+body{
+    background-color: #1a1818;
+}
+
+
+.container{
+    /* padding-top: 90px;   */
+    display: flex;
+}
+
+.instanav{
+    border: 1px solid gray;
+    border-radius: 1px;
+    height: 655px;
+    width: 250px;
+    background-color: #141414;
+    color: #fff;
+    position:fixed;
+}
+
+.instanavfixed{
+    position: fixed;
+}
+
+.instagram{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.instaname{
+    background-color: #1a1818;
+    color: #fff;
+    height: 50px;
+    width: 150px;
+}
+
+.dotdot{
+    text-align: center;
+    color: gray;
+    padding-top: 10px;
+    padding-bottom: 4px;
+}
+
+.nav{
+    background-color: #2e2d2d;
+    color: white;
+    width: 250px;
+    height: 65px;
+}
+
+.homebutton{
+    font-size: 15px;
+}
+
+.searchbutton{
+    font-size: 15px;
+}
+
+.reelsemoji{
+    font-size: 15px;
+}
+
+.messageemoji{
+    font-size: 15px;
+}
+
+.notificationemoji{
+    font-size: 15px;
+}
+
+.profileemoji{
+    font-size: 15px;
+}
+
+#search{
+    padding-top: 5px;
+}
+
+#reels{
+    padding-top: 5px;
+}
+
+
+#message{
+    padding-top: 5px;
+}
+
+#notification{
+    padding-top: 5px;
+}
+
+#profile{
+    padding-top: 5px;
+}
+
+#more{
+    padding-top: 90px;
+    text-align: center;
+}
+
+.more{
+    background-color: #141414;
+    color: white;
+    width: 250px;
+    height: 25px;
+}
+
+/* Message Box */
+
+.messageboxpadding{
+    padding-left: 300px;
+    padding-top: 30px;
+}
+
+.messagebox{
+    height: 100vh;
+    width: 850px;
+    border: 1px solid gray;
+}
+
+.ownnamepadding{
+    padding-left: 115px;
+    padding-top: 15px;
+}
+
+.ownname{
+    height: 45px;
+    width: 250px;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.messagelistpadding{
+    padding-left: 0px;
+}
+
+.messagelist{
+    height: 450px;
+    width: 350px;
+    border: 1px solid #353333;
+}
+
+.messagetitle{
+    color: #fff;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.requestpadding{
+    padding-left: 157px;
+}
+
+.requestbutton{
+    background-color: #1a1a1a;
+    color: #3578e5;
+    border: none;
+    cursor: pointer;
+}
+
+.userprofilepadding{
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.userprofile{
+    height: 60px;
+    width: 60px;
+    border: 1px solid #141414;
+    border-radius: 50%;
+    background-color: #3578e5;
+}
+
+.usernamepadding{
+    padding-left: 85px;
+    color: #e9dada;
+    padding-top: 10px;
+}
+
+.username{
+    width: 125px;
+}
+
+.sentmessage{
+    /* border: 1px solid #fff; */
+    padding-top: 5px;
+    width: 225px;
+    color: #928888;
+}
+
+/* Label */
+
+label{
+    cursor: pointer;
+}
+
+.dot{
+    color: #fff;
+}
+
+.time{
+    color: #928888;
+}
+
+.second{
+    padding-top: 4px;
+}
